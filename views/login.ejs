@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <style>
+        body {
+            align-items: center;
+            text-align: center;
+        }
+        p {
+            border: 2px solid #0073ff;
+        }
+    </style>
+</head>
+
+<body class="border-box">
+    <h1>Login</h1>
+    <hr>
+    <% if (messages.error) { %>
+        <%= messages.error %>
+            <% } %>
+                <form action="/login" class="form-login" method="POST">
+                    <br>
+                    <div>
+                        <label for="email" class="form-label">Email</label><br>
+                        <input type="email" class="form-email" id="email" name="email" required>
+                    </div>
+                    <br>
+                    <div>
+                        <label for="password" class="form-label">Password</label><br>
+                        <input type="password" class="form-password" id="password" name="password" required>
+                    </div><br>
+                    <button class="btn btn-primary" type="submit">Login</button>
+                </form><br>
+                <p class="text-lg-center">Create a new <a class="text-link" href="/register">account</a>?</p>
+</body>
+
+</html>
