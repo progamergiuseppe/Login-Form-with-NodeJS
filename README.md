@@ -133,6 +133,8 @@ app.listen(3000)
  ```html
  > git clone https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git
 
+ > cd Login-Form-with-NodeJS
+
  > npm start devStart
 
  > Run http://localhost:3000/ in your web broswer
