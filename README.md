@@ -130,14 +130,14 @@ app.listen(3000)
 ```
 
 # Usage
-```html
-> git clone https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git
+ ```html
+ > git clone https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git
 
-> npm start devStart
+ > npm start devStart
 
-> Run http://localhost:3000/ in your web broswer
+ > Run http://localhost:3000/ in your web broswer
 
-```
+ ```
 
 - This is the basic NodeJS Login
 
@@ -147,10 +147,10 @@ app.listen(3000)
 
 - My code editor <a href="https://code.visualstudio.com/">VScode</a>
 
-- More code on<a href="https://github.com/progamergiuseppe"> Progamming Giuseppe</a>
+ - More code on<a href="https://github.com/progamergiuseppe"> Progamming Giuseppe</a>
 
 # Thank You
 
-- Thank you for using this program!
+ - Thank you for using this program!
 
-- See you on the next program!
+ - See you on the next program!
