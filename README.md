@@ -5,7 +5,11 @@ Create Login Form With NodeJS
 
 - 1. Make sure you have NodeJS
 
-You can start from creating server.js:
+- 2. You need a code editor to make it easier to code
+
+# Creating file and install
+
+- You can start from creating server.js:
 
 ```
   1. First create file named server.js
@@ -29,7 +33,7 @@ You can start from creating server.js:
 
 - Go to your code editor and start to code
 
-Source code sever.js
+- Source code of server.js
 
 ```javascript
 if (process.env.NODE_ENV !== 'production') {
@@ -123,4 +127,8 @@ console.clear()
 console.log('Server started http://localhost:3000/')
 
 app.listen(3000)
-```javascript
+```
+
+# Code Editor
+
+- My code editor <a href="https://code.visualstudio.com/">VScode</a>
