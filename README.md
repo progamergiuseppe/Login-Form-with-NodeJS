@@ -29,7 +29,7 @@ Create Login Form With NodeJS
   8. Run npm install method-override
 ```
 
-# Code server.js
+# Source Code of server.js
 
 - Go to your code editor and start to code
 
@@ -131,12 +131,26 @@ app.listen(3000)
 
 # Usage
 ```
-- npm start devStart
+ > git clone <a href="https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git">https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git</a>
 
-- Run http://localhost:3000/ in your web broswer
+> npm start devStart
+
+> Run http://localhost:3000/ in your web broswer
 
 ```
+
+- This is the basic NodeJS Login
+
+- Enjoy and Have Fun!
 
 # Code Editor
 
 - My code editor <a href="https://code.visualstudio.com/">VScode</a>
+
+- More code on <a href="https://github.com/progamergiuseppe">Progamer Giuseppe</a>
+
+# Thank You
+
+- Thank you for using this program!
+
+- See you on the next program!
