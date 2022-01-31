@@ -3,9 +3,9 @@ Create Login Form With NodeJS
 
 # Required
 
-- 1. Make sure you have NodeJS
+ 1. Make sure you have NodeJS
 
-- 2. You need a code editor to make it easier to code
+ 2. You need a code editor to make it easier to code
 
 # Creating file and install
 
