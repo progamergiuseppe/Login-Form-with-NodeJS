@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "npm install package-lock.json && nodemon server.js"
+    "devStart": "npm i dotenv && npm i express && nodemon server.js"
   },
   "author": "",
   "license": "ISC",
