@@ -130,8 +130,8 @@ app.listen(3000)
 ```
 
 # Usage
-```
- > git clone <a href="https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git">https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git</a>
+```html
+> git clone <a href="https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git">https://github.com/progamergiuseppe/Login-Form-with-NodeJS.git</a>
 
 > npm start devStart
 
@@ -147,7 +147,7 @@ app.listen(3000)
 
 - My code editor <a href="https://code.visualstudio.com/">VScode</a>
 
-- More code on <a href="https://github.com/progamergiuseppe">Progamer Giuseppe</a>
+- More code on https://github.com/progamergiuseppe
 
 # Thank You
 
