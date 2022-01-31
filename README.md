@@ -129,6 +129,14 @@ console.log('Server started http://localhost:3000/')
 app.listen(3000)
 ```
 
+# Usage
+```
+- npm start devStart
+
+- Run http://localhost:3000/ in your web broswer
+
+```
+
 # Code Editor
 
 - My code editor <a href="https://code.visualstudio.com/">VScode</a>
